@@ -1,5 +1,5 @@
 
-(defproject cljs_calendar "0.0.1"
+(defproject cljs-calendar "0.0.2"
   :description "A simple drop in calendar for clojurescript applications"
   :source-path "src"
   :url "https://github.com/peterjewicz/cljs-calendar"
